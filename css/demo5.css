@@ -1,0 +1,53 @@
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.t1 {
+    display: flex;
+    align-items: center;
+}
+
+.t1 p:nth-child(1) {
+    cursor: pointer;
+    font-size: 1.5625rem;
+    margin-right: 1.25rem;
+}
+
+.t1 p:nth-child(2) {
+    font-size: 1.5625rem;
+    font-weight: bold;
+}
+
+.t2 {
+    display: flex;
+    align-items: center;
+}
+
+.you {
+    margin: .9375rem 0;
+    /* background: rgb(244, 245, 247); */
+    display: flex;
+    justify-content: space-between;
+}
+
+.y1 p i {
+    font-size: 1.375rem;
+    font-weight: bold;
+}
+
+.y1 u:nth-child(2) {
+    display: inline-block;
+    margin: .9375rem 0;
+}
+
+.deo {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.25rem 0;
+}
+
+.d1 h3 {
+    color: green;
+}

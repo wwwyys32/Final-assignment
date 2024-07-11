@@ -1,0 +1,94 @@
+.box {
+            padding: 0;
+        }
+
+        .top img {
+            width: 100%;
+        }
+
+        .con {
+            padding: .9375rem .625rem;
+            background: rgb(244, 243, 248);
+        }
+
+        .que {
+            background: white;
+            display: flex;
+            justify-content: space-between;
+            padding: .9375rem 0;
+            margin: .625rem 0;
+            cursor: pointer;
+        }
+
+        .que p:nth-child(2) {
+            font-size: 1.375rem;
+        }
+
+        .xiao {
+            padding: .9375rem .625rem;
+            background: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .xia {
+            margin: .625rem 0;
+            padding: .9375rem .625rem;
+            background: white;
+
+        }
+
+        .xia p {
+            margin: .125rem 0;
+        }
+
+        .zhifu {
+            display: flex;
+            /* justify-content: space-between; */
+            margin: .625rem 0;
+            padding: .9375rem .625rem;
+            background: white;
+        }
+
+        .z23 {
+            margin-left: 1.875rem;
+        }
+
+        .z22 {
+            margin-bottom: .625rem;
+        }
+
+        .z22 p {
+
+            width: 13.375rem;
+            display: flex;
+            justify-content: space-between;
+        }
+        .bott{
+            display: flex;
+            justify-content: space-between;
+            background: white;
+        }
+        .bo{
+            display: flex;  background: white;
+            padding: .625rem 0;
+        }
+        .bo a:nth-child(1){
+            display: inline-block;
+            width: 30%;
+            line-height: 2.875rem;
+            text-align: center;
+            height: 2.875rem;
+            border: 1px solid #000;
+        }
+        .bo a:nth-child(2){
+            margin-left: .625rem;
+            display: inline-block;
+            width: 65%;
+            line-height: 2.875rem;
+            text-align: center;
+            height: 2.875rem;
+            border: 1px solid #000;
+            background: skyblue;
+        }

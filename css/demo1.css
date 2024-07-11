@@ -1,0 +1,121 @@
+header {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    padding: .625rem 0 0 0;
+    background: white;
+    width: 100%;
+    height: 4rem;
+}
+header div {
+    width: 3.125rem;
+    height: 3.125rem;
+    background: rgb(244, 243, 248);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header div img {
+    width: 1.875rem;
+
+}
+
+header input {
+    width: 11.5rem;
+    height: 3.125rem;
+    background: rgb(244, 243, 248);
+}
+
+nav {
+    margin-top: 2.1875rem;
+    margin-right: 0.625rem;
+}
+
+nav ul {
+    padding: .9375rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li a {
+    padding: .3125rem 0;
+    font-size: .8125rem;
+
+}
+
+nav ul li:nth-child(1) a {
+    font-weight: bold;
+    font-size: 1.125rem;
+    border-bottom: 3px solid skyblue;
+}
+
+
+header a {
+    width: 3.125rem;
+    height: 3.125rem;
+    background: rgb(244, 243, 248);
+    text-align: center;
+    line-height: 3.125rem;
+
+}
+
+.list .l2 {
+    width: 1.875rem;
+    height: 1.875rem;
+    background: url(../img/6.png) no-repeat;
+    background-size: 1.875rem 1.875rem;
+}
+
+.shoe {
+    display: flex;
+    justify-content: space-between;
+    margin: .925rem 0;
+}
+
+.s1 {
+    width: 4.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.s1 img {
+    width: 1.875rem;
+    height: 1.875rem;
+
+}
+
+.s8 {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.s2 h3 {
+    font-size: 13px;
+}
+
+.s3 {
+    margin: .9375rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.s3 p {
+    font-weight: bolder;
+}
+
+.s2 img {
+    width: 10.25rem;
+    height: 10rem;
+}
+
+.shop {
+    margin-bottom: 4rem;
+}

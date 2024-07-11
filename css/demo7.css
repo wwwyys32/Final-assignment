@@ -1,0 +1,96 @@
+.box {
+    background: rgb(244, 243, 248);
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.t1 {
+    display: flex;
+    align-items: center;
+}
+
+.t1 p {
+    cursor: pointer;
+    font-size: 1.5625rem;
+    margin-right: 1.25rem;
+}
+
+.t1 p:nth-child(2) {
+    font-size: 1.5625rem;
+    font-weight: bold;
+    margin-left: 4.875rem;
+}
+
+.heng {
+    margin: .9375rem 0;
+}
+
+.pin {
+    padding: .9375rem 0;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.p1 {
+    width: 31%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.p1 p {
+    margin: .625rem 0;
+}
+
+.p1 a {
+    border: 1px solid #000;
+    display: inline-block;
+    padding: .3125rem .625rem;
+}
+
+.ning {
+    background: white;
+    padding: .9375rem .625rem;
+    display: flex;
+}
+
+.n3 i {
+    display: inline-block;
+    margin: .9375rem 0;
+    background: wheat;
+}
+
+.n2 {
+    margin-left: 1.25rem;
+}
+
+.n4 {
+
+    display: flex;
+
+    align-items: center;
+}
+
+.n4 a {
+    margin-left: 5.9375rem;
+}
+
+.n4 a {
+    border: 1px solid #000;
+    display: inline-block;
+    width: 2.9375rem;
+    height: 1.625rem;
+    text-align: center;
+    line-height: 1.625rem;
+}
+
+.n5 {
+    padding: .625rem 0;
+    display: flex;
+    justify-content: space-between;
+}

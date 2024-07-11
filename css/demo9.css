@@ -1,0 +1,100 @@
+.box {
+    padding: 0;
+}
+
+.top img {
+    width: 100%;
+}
+
+.con {
+    padding: .9375rem .625rem;
+
+}
+
+.c1 {
+    display: flex;
+    align-items: center;
+}
+
+.c4 {
+    display: flex;
+    align-items: center;
+}
+
+.c4 i {
+    text-decoration: line-through;
+    font-size: .8125rem;
+}
+
+.c4 u {
+    font-size: .8125rem;
+}
+
+.c8 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.c9 {
+    margin-left: 6rem;
+    cursor: pointer;
+}
+
+.c5 {
+    display: flex;
+    margin: .625rem 0;
+    font-size: .8125rem;
+}
+
+.c6 {
+    margin: 0 .0625rem;
+    border: 1px solid #000;
+}
+
+.c7 a {
+    display: inline-block;
+    padding: .5rem .625rem;
+    background: rgba(128, 128, 128, 0.429);
+}
+
+.c10 {
+    margin: .625rem 0;
+    display: flex;
+}
+
+.c10 img {
+    margin: 0 .625rem;
+}
+
+.heng {
+    margin: .9375rem 0;
+}
+
+.size {
+    display: flex;
+    justify-content: space-between;
+    margin: .9375rem 0;
+    cursor: pointer;
+}
+
+.s1 {
+    height: 5.875rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 23%;
+
+    border: 1px solid #000;
+    border-radius: 0.625rem;
+}
+
+.buy {
+    text-align: center;
+    padding: .9375rem 0;
+    width: 95%;
+    margin: 0 auto;
+    background: skyblue;
+    cursor: pointer;
+}
